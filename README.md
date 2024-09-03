@@ -9,7 +9,7 @@ This project is a User Management API built with Spring Boot. It provides a simp
 1.Clone the Repository:
 ```
 git clone git@github.com:Barbar1432/userManagementAPI.git
-cd userManagementAPI
+
 
 ```
 2.Build and Run the Application:
